@@ -575,7 +575,7 @@ header .dropdown:hover .dropdown-cont {
     float: center;
     width: 350px;
     height: 350px;
-    margin-top: -540px;
+    margin-top: -520px;
     margin-left: 600px;
     background-color: rgba(0, 0, 0, 0.3);
     padding: 16px;
@@ -585,7 +585,7 @@ header .dropdown:hover .dropdown-cont {
     float: center;
     width: 350px;
     height: 350px;
-    margin-top: -550px;
+    margin-top: -520px;
     margin-left: 1110px;
     background-color: rgba(0, 0, 0, 0.3);
     padding: 16px;
