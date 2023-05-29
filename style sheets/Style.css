@@ -1059,7 +1059,7 @@ td {
     }
 
     body {
-        background-image: url(images/Backgroundimage.jpg);
+        background-image: url(../images/Backgroundimage.jpg);
         overflow-x: hidden;
     }
 
@@ -1304,7 +1304,7 @@ td {
         margin-left: 25px;
         width: 400px;
         height: 400px;
-        background-image: url(images/hikkaduwa\ hathery.jpg);
+        background-image: url(../images/hikkaduwa\ hathery.jpg);
         border-radius: 300px;
     }
 
@@ -1871,7 +1871,7 @@ textarea {
     /* footer pg1 */
     .footer-basic1 {
         padding: 8px;
-        background-image: url(Images/Backgroundimage.jpg);
+        background-image: url(../Images/Backgroundimage.jpg);
         color: #ffffff;
         margin-top: 100px;
         width: 450px;
@@ -1935,7 +1935,7 @@ textarea {
     /* footer pg2 */
     .footer-basic2 {
         padding: 8px;
-        background-image: url(Images/Backgroundimage.jpg);
+        background-image: url(../Images/Backgroundimage.jpg);
         color: #ffffff;
         margin-top: 200px;
         width: 450px;
@@ -1999,7 +1999,7 @@ textarea {
     /* footer pg3 */
     .footer-basic3 {
         padding: 8px;
-        background-image: url(Images/Backgroundimage.jpg);
+        background-image: url(../Images/Backgroundimage.jpg);
         color: #ffffff;
         margin-top: 150px;
         width: 450px;
@@ -2063,7 +2063,7 @@ textarea {
     /* footer pg4 */
     .footer-basic4 {
         padding: 8px;
-        background-image: url(Images/Backgroundimage.jpg);
+        background-image: url(../Images/Backgroundimage.jpg);
         color: #ffffff;
         margin-top: 400px;
         width: 450px;
@@ -2128,7 +2128,7 @@ textarea {
     /* footer pg6 */
     .footer-basic6 {
         padding: 8px 0;
-        background-image: url(Images/Backgroundimage.jpg);
+        background-image: url(../Images/Backgroundimage.jpg);
         color: #ffffff;
         margin-top: 130px;
         width: 450px;
